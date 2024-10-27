@@ -1,0 +1,48 @@
+{
+  "folders": [
+    {
+      "path": "./",
+      "name": "ROOT"
+    },
+    {
+      "path": "./projects/Raffle-System-contracts"
+    },
+    {
+      "path": "./projects/Raffle-System-frontend"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "projects/Raffle-System-frontend"
+    },
+    {
+      "path": "projects/Raffle-System-contracts"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "projects/": true
+    },
+    "jest.disabledWorkspaceFolders": [
+      "ROOT",
+      "projects"
+    ],
+    "dotenv.enableAutocloaking": false
+  },
+  "extensions": {
+    "recommendations": [
+      "joshx.workspace-terminals"
+    ]
+  },
+  "tasks": {
+    "version": "2.0.0",
+    "tasks": []
+  },
+  "launch": {
+    "configurations": []
+  }
+}

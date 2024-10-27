@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.12
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: srividya.kuntla@gmail.com
+author_name: srividya kuntla
+contract_name: RaffleSystem
+preset_name: starter
+project_name: Raffle-System
+
